@@ -1,4 +1,4 @@
-package br.com.digofernandes.authentication.Entity;
+package br.com.digofernandes.authentication.User;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
